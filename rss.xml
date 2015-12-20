@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[SimpleTruthMedia]]></title>
         <description><![CDATA[SimpleTruthMedia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/simpletruthmedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 06:05:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 06:05:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/simpletruthmedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Paul - ReachGlobal Africa]]></title>
+            <description><![CDATA[<article><h1>Paul - ReachGlobal Africa</h1><p>This is "Paul - ReachGlobal Africa" by on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c469a413b6a50f35bc8548b39a39f0f69547a4be.jpg"></article>]]></description>
+            <link>https://vimeo.com/80342375</link>
+            <guid isPermaLink="false">e2a9cdd8-6d66-4408-8c81-6af25b2c3728</guid>
+            <pubDate>Sun, 20 Dec 2015 06:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keyli's Story - Casa de Amistad]]></title>
+            <description><![CDATA[<article><h1>Keyli's Story - Casa de Amistad</h1><p>Keyli is a student that receives tutoring assistance from Casa de Amistad. Casa de Amistad, Centro de Enseñanza is a nonprofit organization dedicated to fostering the education and character development of Latino children and their families in coastal North County San Diego. www.casadeamistad.org Shot with Blackmagic Pocket Cinema Camera</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/386d3dac4f0fe234c38aa2c03b8888171cd77db0.jpg"></article>]]></description>
+            <link>https://vimeo.com/88651130</link>
+            <guid isPermaLink="false">b951da79-5f9c-4dcd-8bd7-944478649bc7</guid>
+            <pubDate>Sun, 20 Dec 2015 06:05:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Casa de Amistad- 2013]]></title>
             <description><![CDATA[<article><h1>Casa de Amistad- 2013</h1><p>Learn about the important work being done by Casa de Amistad. They are an educational non-profit tutoring students in north county coastal San Diego. The students primarily come from homes where English is not the first language. Learn more about this great organization at www.casadeamistad.org. Produced by Doug Peterson for SimpleTruthMedia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cdd043445d6432d8b2f3b83337fb7693d10c2f1.jpg"></article>]]></description>
